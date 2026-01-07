@@ -34,6 +34,4 @@ SLOGAN_GEN_LARA is a beginner-friendly Python command-line application that gene
 1. Run the program:
 
 ```bash
-   python main.py 
-
-
+   python main.py
